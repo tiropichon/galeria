@@ -32,9 +32,9 @@ a:hover {
 .contenedor-enlaces {
 	background-color: lightgrey;
 	display: inline-block;
-	margin: 2rem;
 	padding: 2rem;
 	border: 1px solid grey;
+	border-radius: .5em;
 }
 
 .imagenes {
@@ -43,4 +43,5 @@ a:hover {
 	height: auto;
 	margin-bottom: 2rem;
 	background-color: lightgrey;
+	border-radius: .5em;
 }
