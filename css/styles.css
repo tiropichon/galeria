@@ -3,6 +3,11 @@ html {
     box-sizing:border-box;
 }
 
+figure {
+	margin: 0;
+	padding: 0;
+}
+
 img {
 	width: 320px;
 	height: 240px;
@@ -18,6 +23,10 @@ a {
 	background-color: lightgreen;
 	border-radius: .5em;
 	color: black;
+}
+
+a:hover {
+	background-color: orange;
 }
 
 .contenedor-enlaces {
